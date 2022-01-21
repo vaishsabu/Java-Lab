@@ -35,7 +35,7 @@ public class Activity1
            
         // printing pattern with flag Emoji
            System.out.println();
-           String flagIn ="\uD83C\uDDEE \uD83C\uDDF3";
+           String flagIn ="\uD83C\uDDEE\uD83C\uDDF3";
             for(int i=0;i<row;i++)
              {
                  System.out.print(flagIn+" "+flagIn);
